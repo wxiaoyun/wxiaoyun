@@ -5,6 +5,8 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 - Year 2 undergraduate studying at the National University of Singapore
 - Learning full stack web development
 
+---
+
 ## 📚 Repositories
 
 - **[lms-backend](https://github.com/ForAeons/lms-backend):** Library Management System backend built using Go, GORM-ORM, Fiber and Postgres.
