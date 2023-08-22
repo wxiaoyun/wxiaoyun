@@ -1,4 +1,4 @@
-# ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
 I'm Xiaoyun, a passionate hater against dynamically typed languages. I am a year 2 undergraduate studying at the National University of Singapore.
 
