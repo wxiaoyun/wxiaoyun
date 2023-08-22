@@ -54,5 +54,6 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/w-xiaoyun/](https://www.linkedin.com/in/w-xiaoyun/)
-- Email: e0702008@u.nus.edu
+<a href="https://www.linkedin.com/in/w-xiaoyun/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
