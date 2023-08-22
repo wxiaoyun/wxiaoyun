@@ -44,7 +44,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ForAeons/ForAeons">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForAeons&show_icons=true&rank_icon=github&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForAeons&show_icons=true&rank_icon=github&theme=nord" />
 </a>
 <a href="https://github.com/ForAeons/ForAeons">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForAeons&layout=compact&theme=dracula"/>
