@@ -20,7 +20,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="45" height="45"/>
 </p>
 
@@ -34,7 +34,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 
 ## 📚 Repositories
 
-- **[lms-backend](#):** Backend development using Go, Golang, GORM-ORM, and Fiber.
+- **[lms-backend](#):** Library Management System backend built using Go, GORM-ORM, Fiber and Postgres.
 
 ## 📈 GitHub Stats
 
