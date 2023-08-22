@@ -29,6 +29,6 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8bfpz37a0n7o2mp5ciev602ku&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Snake animation](https://github.com/ForAeons/ForAeons/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [ForAeons](https://github.com/ForAeons)
