@@ -40,7 +40,7 @@ I'm Xiaoyun, a passionate hater of dynamically typed languages.
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="45" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="35" height="45"/>
 </p>
 
 ## 📈 GitHub Stats
