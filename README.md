@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Xiaoyun], a passionate software developer from [Singapore].
+I'm Xiaoyun, a passionate software developer from Singapore.
 
 ## 🛠️ Technologies & Tools
 
