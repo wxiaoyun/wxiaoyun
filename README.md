@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Xiaoyun, a passionate software developer from Singapore. I am a year 2 undergraduate studying at National University of Singapore.
+I'm Xiaoyun, a passionate hater against dynamically typed languages. I am a year 2 undergraduate studying at National University of Singapore.
 
 ## 🛠️ Technologies & Tools
 
