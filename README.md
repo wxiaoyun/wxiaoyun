@@ -52,7 +52,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 
 ---
 
-![Snake animation](https://github.com/ForAeons/ForAeons/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ForAeons/ForAeons/blob/output/github-contribution-grid-snake-custom.svg)
 
 ## 📫 Get in Touch
 
