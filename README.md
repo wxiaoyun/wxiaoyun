@@ -4,7 +4,7 @@ I'm Xiaoyun, a passionate software developer from Singapore. I am a year 2 under
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Go, ~~JavaScript~~ TypeScript.
+- **Languages:** Go, ~~JavaScript~~ TypeScript, Java.
 - **Frameworks:** React, Fiber.
 - **Other:** Redux, Tailwind, GORM.
 
