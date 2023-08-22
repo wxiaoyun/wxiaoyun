@@ -25,7 +25,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="45" height="45"/>
 </p>
 
-- **Learning:**
+- **I am learning:**
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
