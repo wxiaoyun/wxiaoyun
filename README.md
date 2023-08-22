@@ -14,7 +14,7 @@ I'm Xiaoyun, a passionate software developer from Singapore.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/w-xiaoyun/)
+- LinkedIn: [linkedin.com/in/w-xiaoyun/](https://www.linkedin.com/in/w-xiaoyun/)
 - Email: e0702008@u.nus.edu
 
 ---
