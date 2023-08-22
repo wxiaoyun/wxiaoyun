@@ -45,7 +45,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForAeons&show_icons=true&rank_icon=github&theme=dracula" />
 </a>
 <a href="https://github.com/ForAeons/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForAeons&layout=compact" alt="linkedin" width="45" height="45"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForAeons&layout=compact"/>
 </a>
 
 ---
@@ -55,5 +55,5 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 ## 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/w-xiaoyun/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="linkedin" width="45" height="45"/>
 </a>
