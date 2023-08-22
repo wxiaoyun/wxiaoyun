@@ -7,7 +7,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
 
 ## 📚 Repositories
 
-- **[lms-backend](#):** Library Management System backend built using Go, GORM-ORM, Fiber and Postgres.
+- **[lms-backend](https://github.com/ForAeons/lms-backend):** Library Management System backend built using Go, GORM-ORM, Fiber and Postgres.
 
 ## 🛠️ Technologies & Tools
 
