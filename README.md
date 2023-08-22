@@ -45,7 +45,7 @@ I'm Xiaoyun, a passionate hater against dynamically typed languages.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForAeons&show_icons=true&rank_icon=github&theme=dracula" />
 </a>
 <a href="https://github.com/ForAeons/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForAeons&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForAeons&layout=compact" alt="linkedin" width="45" height="45"/>
 </a>
 
 ---
