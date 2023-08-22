@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**ForAeons/ForAeons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Xiaoyun], a passionate software developer from [Singapore].
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Go, ~~JavaScript~~ TypeScript.
+- **Frameworks:** React, Fiber, etc.
+- **Other:** Redux, Tailwind, GORM, etc.
+
+## 📈 GitHub Stats
+
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForAeons&show_icons=true&theme=dracula)
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/w-xiaoyun/)
+- Email: e0702008@u.nus.edu
+
+---
+
+⭐️ From [username](https://github.com/ForAeons)
