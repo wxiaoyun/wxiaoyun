@@ -29,6 +29,7 @@ I'm Xiaoyun, a passionate hater of dynamically typed languages.
 - **Tools:**
 
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="vim" width="45" height="45"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
