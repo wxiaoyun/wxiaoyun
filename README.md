@@ -5,8 +5,6 @@ I'm Xiaoyun, a passionate hater of dynamically typed languages.
 - Year 2 undergraduate studying at the National University of Singapore
 - Learning full stack web development
 
-![](https://komarev.com/ghpvc/?username=ForAeons&color=06d6a0&style=for-the-badge)
-
 ---
 
 ## 📚 Repositories
@@ -44,6 +42,7 @@ I'm Xiaoyun, a passionate hater of dynamically typed languages.
 
 ## 📈 GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=ForAeons&color=06d6a0&style=for-the-badge)
 <a href="https://github.com/ForAeons/ForAeons">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForAeons&show_icons=true&hide_border=true&rank_icon=github&theme=nord" />
 </a>
