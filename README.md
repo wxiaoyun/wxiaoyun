@@ -4,8 +4,7 @@ I'm Xiaoyun, a passionate hater of dynamically typed languages.
 
 - Year 2 undergraduate studying at the National University of Singapore
 - Learning full stack web development
-
-*[My personal page](https://foraeons.github.io/)*
+- Check out *[my personal page](https://foraeons.github.io/)*
 
 ---
 
