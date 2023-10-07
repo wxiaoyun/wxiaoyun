@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn)
-
-I'm Xiaoyun, a passionate hater of dynamically typed languages.
+Hi there, I'm Xiaoyun.
 
 - Year 2 undergraduate studying at the National University of Singapore
 - Learning full stack web development
