@@ -56,8 +56,6 @@ Hi there, I'm Xiaoyun.
 
 ---
 
-![Snake animation](https://github.com/ForAeons/ForAeons/blob/output/github-contribution-grid-snake-custom.svg)
-
 ## 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/w-xiaoyun/">
