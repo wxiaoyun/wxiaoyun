@@ -48,10 +48,10 @@ Hi there, I'm Xiaoyun.
 ![](https://komarev.com/ghpvc/?username=ForAeons&color=6c85a0&style=for-the-badge)
 <br/>
 <a href="https://github.com/ForAeons/ForAeons">
-  <img height=200 align="center" src="https://github-readme.wxiaoyun.com/api?username=ForAeons&show_icons=true&hide_border=true&rank_icon=github&theme=nord" />
+  <img align="center" src="https://github-readme.wxiaoyun.com/api?username=ForAeons&show_icons=true&hide_border=true&rank_icon=github&theme=nord" />
 </a>
 <a href="https://github.com/ForAeons/ForAeons">
-  <img height=200 align="center" src="https://github-readme.wxiaoyun.com/api/top-langs/?username=ForAeons&layout=compact&hide_border=true&theme=nord"/>
+  <img align="center" src="https://github-readme.wxiaoyun.com/api/top-langs/?username=ForAeons&layout=compact&hide_border=true&theme=nord"/>
 </a>
 
 ---
