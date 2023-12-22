@@ -10,7 +10,7 @@ Hi there, I'm Xiaoyun.
 ## 📚 Repositories
 
 - **[Portfolio Page](https://github.com/ForAeons/ForAeons.github.io):** Personal page built using React Typescript.
-- - **[lms-frontend](https://github.com/ForAeons/lms-frontend-v2):** Library Management System frontend built using Typescript, React, Redux and Tailwind.
+- **[lms-frontend](https://github.com/ForAeons/lms-frontend-v2):** Library Management System frontend built using Typescript, React, Redux and Tailwind.
 - **[lms-backend](https://github.com/ForAeons/lms-backend):** Library Management System backend built using Go, GORM-ORM, Fiber and Postgres.
 
 
