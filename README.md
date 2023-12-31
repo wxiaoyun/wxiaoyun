@@ -9,10 +9,9 @@ Hi there, I'm Xiaoyun.
 
 ## 📚 Repositories
 
-- **[Portfolio Page](https://github.com/ForAeons/ForAeons.github.io):** Personal page built using React Typescript.
 - **[lms-frontend](https://github.com/ForAeons/lms-frontend-v2):** Library Management System frontend built using Typescript, React, Redux and Tailwind.
 - **[lms-backend](https://github.com/ForAeons/lms-backend):** Library Management System backend built using Go, GORM-ORM, Fiber and Postgres.
-
+- **[Portfolio Page](https://github.com/ForAeons/ForAeons.github.io):** Personal page built using React Typescript.
 
 ## 🛠️ Technologies & Tools
 
@@ -32,6 +31,7 @@ Hi there, I'm Xiaoyun.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"  alt="rails" width="45" height="45"/>
