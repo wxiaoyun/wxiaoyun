@@ -45,7 +45,7 @@ Hi there, I'm Xiaoyun.
 ## 🌿 I am learning
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>
 </p>
 
 ## 📈 GitHub Stats
